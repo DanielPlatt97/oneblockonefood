@@ -1,0 +1,4 @@
+name: OneBlockOneFood
+version: '${project.version}'
+main: me.marenji.oneblockonefood.OneBlockOneFood
+api-version: 1.19
